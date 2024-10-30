@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gKoFCoo8z2BmQUJAh3UcLMie/AA1fYCkFjcioYr24nOuvVScKfiX0z/xdMkW+SDscOUYWisjzadR4VgN+gF08Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UTS-CDS\\Desktop\\CESAR\\DISEÑO DE APPS\\MVVM_implementacion_CAAR\\MVVM_implementacion_CAAR\\MVVM_implementacion_CAAR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UTS-CDS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\UTS-CDS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\UTS-CDS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\UTS-CDS\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\UTS-CDS\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

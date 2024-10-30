@@ -1,0 +1,15 @@
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\bin\Debug\netstandard2.0\MVVM_implementacion_CAAR.deps.json
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\bin\Debug\netstandard2.0\MVVM_implementacion_CAAR.dll
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\bin\Debug\netstandard2.0\ref\MVVM_implementacion_CAAR.dll
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\bin\Debug\netstandard2.0\MVVM_implementacion_CAAR.pdb
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\MVVM_implementacion_CAAR.csproj.AssemblyReference.cache
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\MVVM_implementacion_CAAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\Vista\pagina1.xaml.g.cs
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\MVVM_implementacion_CAAR.AssemblyInfoInputs.cache
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\MVVM_implementacion_CAAR.AssemblyInfo.cs
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\MVVM_implementacion_CAAR.csproj.CoreCompileInputs.cache
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\MVVM_implementacion_CAAR.dll
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\refint\MVVM_implementacion_CAAR.dll
+C:\Users\UTS-CDS\Desktop\CESAR\DISEÑO DE APPS\MVVM_implementacion_CAAR\MVVM_implementacion_CAAR\obj\Debug\netstandard2.0\MVVM_implementacion_CAAR.pdb
